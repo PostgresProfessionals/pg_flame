@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"pg_flame/pkg/html"
-	"pg_flame/pkg/plan"
+	"github.com/PostgresProfessionals/pg_flame/pkg/html"
+	"github.com/PostgresProfessionals/pg_flame/pkg/plan"
 )
 
 var (

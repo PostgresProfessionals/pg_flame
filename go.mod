@@ -1,4 +1,4 @@
-module pg_flame
+module github.com/PostgresProfessionals/pg_flame
 
 go 1.13
 
